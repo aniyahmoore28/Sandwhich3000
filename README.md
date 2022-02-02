@@ -30,4 +30,5 @@ In this picture you can see the many different parts in the making. Some of the 
 ---------------
 
 ![](https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/Stand%20for%20the%20upper%20half.PNG)
+
 This stand will hold the upper half of the robot along with the servos, bolts, screws, and acrylic peices of the robot arms
