@@ -23,6 +23,6 @@ Have a prototype made and make code to have the arm moving up and down along wit
 Week 5: (2/11-2/14)
 Make an engineering notebook (or continue updating throughout the project)and have images and videos as well as code and information to upload and present our project through github. 
 
-Onshape Parts
+# Onshape Parts
 ![](https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/Capture%20sandwhich%20300(1).PNG)
 
