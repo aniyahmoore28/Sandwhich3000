@@ -26,3 +26,5 @@ Make an engineering notebook (or continue updating throughout the project)and ha
 # Onshape Parts
 ![](https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/Capture%20sandwhich%20300(1).PNG)
 
+In this picture you can see the many different parts in the making. Some of the shapes were imported from the public library in onshape and others were handmade by Ellen Lynch.
+
