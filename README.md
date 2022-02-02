@@ -28,3 +28,5 @@ Make an engineering notebook (or continue updating throughout the project)and ha
 
 In this picture you can see the many different parts in the making. Some of the shapes were imported from the public library in onshape and others were handmade by Ellen Lynch.
 
+![](https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/Stand%20for%20the%20upper%20half.PNG)
+This stand will hold the upper half of the robot along with the servos, bolts, screws, and acrylic peices of the robot arms
