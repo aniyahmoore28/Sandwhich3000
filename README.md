@@ -54,3 +54,8 @@ Make an engineering notebook (or continue updating throughout the project)and ha
 # Arduino Board
 1) The arduino board responds to the code it is given when it is plugged into the computer
 <img src="https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/arduino%20board.PNG" width="250" />
+
+--------------
+# Holder For Servos
+1) This part will hold servos that will help the arms move
+<img src="https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/Holder%20for%20servos.PNG" width="250" />
