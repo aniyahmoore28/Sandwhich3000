@@ -36,4 +36,10 @@ Make an engineering notebook (or continue updating throughout the project)and ha
 4) We took parts from the public github library to save time
 <img src="https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/Stand%20for%20the%20upper%20half.PNG" width="250" />
 
+---------------
+# Bread Board
+1) The bread baord hold the wires that give power to the multiple potentiameters that will be hooked up
+2) Without a bread board we would only be able to hook up the potentiamter 
+3) The bread board holds a negitive and positive outlet that allows for multiple connections
+<img src="https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/bread%20board.PNG" width="250" />
 
