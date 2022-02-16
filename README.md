@@ -43,3 +43,9 @@ Make an engineering notebook (or continue updating throughout the project)and ha
 3) The bread board holds a negitive and positive outlet that allows for multiple connections
 <img src="https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/bread%20board.PNG" width="250" />
 
+--------------
+# Battery Pack
+1) The battery pack holds the batteries that will power the arm
+2) We borrowed the part from the public parts studio in onshape
+3) It will b drilled onto the base of out project
+<img src="https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/battery%20pack.PNG" width="250" />
