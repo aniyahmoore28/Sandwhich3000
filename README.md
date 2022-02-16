@@ -7,7 +7,7 @@
 * [Base](https://github.com/aniyahmoore28/Sandwhich3000#base)
 * [Bread Board](https://github.com/aniyahmoore28/Sandwhich3000#bread-board)
 * [Battery Pack](https://github.com/aniyahmoore28/Sandwhich3000#battery-pack)
-* [Arduino Board](https://github.com/aniyahmoore28/Sandwhich3000#battery-pack)
+* [Arduino Board](https://github.com/aniyahmoore28/Sandwhich3000#arduino-board)
 * [Holder For Servos](https://github.com/aniyahmoore28/Sandwhich3000#holder-for-servos)
 * [Overall Reflection](https://github.com/aniyahmoore28/Sandwhich3000#overall-reflection)
 
