@@ -1,6 +1,14 @@
 # Sandwhich3000
 ## Table of Contents
-*[Description](https://github.com/aniyahmoore28/Sandwhich3000#description)
+* [Description](https://github.com/aniyahmoore28/Sandwhich3000#description)
+* [Chosen Design](https://github.com/aniyahmoore28/Sandwhich3000#chosen-design)
+* [Schedule](https://github.com/aniyahmoore28/Sandwhich3000#schedule)
+* [Onshape parts](https://github.com/aniyahmoore28/Sandwhich3000#onshape-parts)
+* [Base](https://github.com/aniyahmoore28/Sandwhich3000#base)
+* [Bread Board](https://github.com/aniyahmoore28/Sandwhich3000#bread-board)
+* [Battery Pack](https://github.com/aniyahmoore28/Sandwhich3000#battery-pack)
+* [Arduino Board](https://github.com/aniyahmoore28/Sandwhich3000#battery-pack)
+* [Holder For Servos](https://github.com/aniyahmoore28/Sandwhich3000#holder-for-servos)
 
 # Description
 We are creating a robot arm that is desighned to pick up sandwhiches. Our main "problemm" we are atteping to solve to to make the jobs of busy mothers easyer. Taking the stress of making sandwhiches off their shoulders by programming a robot arm to assemble and ingredients on a peice of bread. we intended to use potenchiamerters as a sort of turning dial to contol the movements of the robot. We will be making a ham and cheese sandwich instead of a peanut butter and jelly because the usage of knives and spoons to get out and spread the condiments as well as the condiments themselves, can be messy and sometimes even dangerous (the knife for the peanut butter). 
