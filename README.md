@@ -75,6 +75,7 @@ Make an engineering notebook (or continue updating throughout the project)and ha
 1) The arms proved to be the harderst part
 2) The arms will hold up the meat and bread while conducting the movements in the code
 <img src="https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/Holder%20for%20servos.PNG" width="250" />
+
 --------------
 # Overall Reflection
 overall this project threw multiple curve balls at us forcing us to step out of our comfort zones to acheive our final product. We did develope scope creep early on but we were able to focus our priorities on one thing at a time. My goal was to make the code and get the potenticameter working along with the servo. I did accomplish those things. Ellens job was to create the CAD and design what our robot would look like. So far we have about 80% of our project completed, all thats left to do is finish the little bit of cad that is left and cut out our peices from acrylic. We have come so far and learned new things, i have learned that coding js a lot easier than it looks and coding for multiple things is not always a nightmare. Ellen learned how to overcome her chsllenges in CAD along with her mates , she has been working hard to create a functioning robot for our project. 
