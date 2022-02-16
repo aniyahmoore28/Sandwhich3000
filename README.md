@@ -35,3 +35,5 @@ Make an engineering notebook (or continue updating throughout the project)and ha
 3) The hole was cut to save space and be used to hold up the servos 
 4) We took parts from the public github library to save time
 <img src="https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/Stand%20for%20the%20upper%20half.PNG" width="250" />
+
+
