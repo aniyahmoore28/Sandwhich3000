@@ -24,7 +24,7 @@ Week 5: (2/11-2/14)
 Make an engineering notebook (or continue updating throughout the project)and have images and videos as well as code and information to upload and present our project through github. 
 
 # Onshape Parts
-![](https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/Capture%20sandwhich%20300(1).PNG)
+<img src="https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/Capture%20sandwhich%20300(1).PNG" width="250" />
 In this picture you can see the many different parts in the making. Some of the shapes were imported from the public library in onshape and others were handmade by Ellen Lynch.
 
 ---------------
