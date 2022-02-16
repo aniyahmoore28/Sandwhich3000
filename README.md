@@ -28,7 +28,9 @@ Make an engineering notebook (or continue updating throughout the project)and ha
 In this picture you can see the many different parts in the making. Some of the shapes were imported from the public library in onshape and others were handmade by Ellen Lynch.
 
 ---------------
-
+# Base
 <img src="https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/Stand%20for%20the%20upper%20half.PNG" width="250" />
-This stand will hold the upper half of the robot along with the servos, bolts, screws, and acrylic peices of the robot arms
-Basically this is the base for our project so a lot of effort has to be put into this.
+1) This stand will hold the upper half of the robot along with the servos, bolts, screws, and acrylic peices of the robot arms
+2) Basically this is the base for our project so a lot of effort has to be put into this
+3) The hole was cut to save space and be used to hold up the servos 
+4) 4) we took parts from the public github library to save time
