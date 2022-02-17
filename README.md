@@ -9,7 +9,7 @@
 * [Battery Pack](https://github.com/aniyahmoore28/Sandwhich3000#battery-pack)
 * [Arduino Board](https://github.com/aniyahmoore28/Sandwhich3000#arduino-board)
 * [Holder For Servos](https://github.com/aniyahmoore28/Sandwhich3000#holder-for-servos)
-* [Arms](
+* [Arms](https://github.com/aniyahmoore28/Sandwhich3000#arms)
 * [Overall Reflection](https://github.com/aniyahmoore28/Sandwhich3000#overall-reflection)
 
 # Description
