@@ -37,7 +37,7 @@ Make an engineering notebook (or continue updating throughout the project)and ha
 ---------------
 # Arduino Code
 
-'''python
+```python
 #include <Servo.h>
 
 Servo myServo1;  // create servo object to control a servo
@@ -108,7 +108,7 @@ void loop() {          // Potentiameter #1 (will control the spatula)
   Serial.println(angle4);
 }
 
-'''
+```
 
 # Onshape Parts
 1) In this picture you can see the many different parts in the making. Some of the shapes were imported from the public library in onshape and others were handmade by Ellen Lynch.
