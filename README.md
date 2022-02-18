@@ -11,16 +11,17 @@
 * [Holder For Servos](https://github.com/aniyahmoore28/Sandwhich3000#holder-for-servos)
 * [Arms](https://github.com/aniyahmoore28/Sandwhich3000#arms)
 * [Overall Reflection](https://github.com/aniyahmoore28/Sandwhich3000#overall-reflection)
+* [Arduino Code](https://github.com/aniyahmoore28/Sandwhich3000#arduino-code)
 
 # Description
 We are creating a robot arm that is desighned to pick up sandwhiches. Our main "problemm" we are atteping to solve to to make the jobs of busy mothers easyer. Taking the stress of making sandwhiches off their shoulders by programming a robot arm to assemble and ingredients on a peice of bread. we intended to use potenchiamerters as a sort of turning dial to contol the movements of the robot. We will be making a ham and cheese sandwich instead of a peanut butter and jelly because the usage of knives and spoons to get out and spread the condiments as well as the condiments themselves, can be messy and sometimes even dangerous (the knife for the peanut butter). 
 
-# chosen design
+# Chosen Design
 Chosen Design:
 A single arm, with condiments in front of the arm on specific spots dedicated to each condiment aka. Ham, cheese, lettuce. The claw will open and close, turn directions on how it grabs the condiment aka down or sideways. The arm will turn and drop the condiment on the bread, making the arm turn a little more over each time to reach the next condiment. If we choose to make 2 sandwiches, then we can move the arm 180 degrees and do the same thing on the other side of the base. 
 Materials
 
-# schedule
+# Schedule
 Time Schedule
 Week 1: (11/23-12/3)
  have a general idea of what we need to learn in order for this project to work, and have brainstormed and tried to troubleshoot. 
@@ -34,7 +35,7 @@ Week 5: (2/11-2/14)
 Make an engineering notebook (or continue updating throughout the project)and have images and videos as well as code and information to upload and present our project through github. 
 
 ---------------
-# Arduino code
+# Arduino Code
 <img src="https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/code%201.PNG" width="250" />
 <img src="https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/code%202.PNG" width="250" />
 <img src="https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/code%203.PNG" width="250" />
