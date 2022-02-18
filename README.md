@@ -111,7 +111,6 @@ void loop() {          // Potentiameter #1 (will control the spatula)
   Serial.print(", Angle: ");
   Serial.println(angle4);
 }
-
 '''
 
 # Onshape Parts
