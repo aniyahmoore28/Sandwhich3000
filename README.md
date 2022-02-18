@@ -36,12 +36,8 @@ Make an engineering notebook (or continue updating throughout the project)and ha
 
 ---------------
 # Arduino Code
-<img src="https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/code%201.PNG" width="250" />
-<img src="https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/code%202.PNG" width="250" />
-<img src="https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/code%203.PNG" width="250" />
 
 '''python
-
 #include <Servo.h>
 
 Servo myServo1;  // create servo object to control a servo
@@ -111,6 +107,7 @@ void loop() {          // Potentiameter #1 (will control the spatula)
   Serial.print(", Angle: ");
   Serial.println(angle4);
 }
+
 '''
 
 # Onshape Parts
