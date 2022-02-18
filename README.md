@@ -38,6 +38,8 @@ Make an engineering notebook (or continue updating throughout the project)and ha
 # Arduino Code
 
 ```python
+
+Credit to ArduinoGetStarted.com
 #include <Servo.h>
 
 Servo myServo1;  // create servo object to control a servo
