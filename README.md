@@ -40,6 +40,79 @@ Make an engineering notebook (or continue updating throughout the project)and ha
 <img src="https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/code%202.PNG" width="250" />
 <img src="https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/code%203.PNG" width="250" />
 
+'''python
+#include <Servo.h>
+
+Servo myServo1;  // create servo object to control a servo
+Servo myServo2;  // create servo object to control a servo
+Servo myServo3;  // adds the servo pin to library so it can be controlled
+Servo myServo4; //
+
+int servoPin1 = 12; //pins and the breadboard and arduini that get connected by wires
+int servoPin2 = 17;
+int servoPin3 = 5;
+int servoPin4 = 6;
+
+
+void setup() {
+  // initialize serial communication at 9600 bits per second:
+  Serial.begin(9600);
+
+
+  myServo1.attach(servoPin1);  // attaches the servo on pin 9 to the servo object
+  myServo2.attach(servoPin2);  // atteches the servo on pin 2 to the servo object
+  myServo3.attach(servoPin3);  // atteches the serov on pin 3 to the servo object
+  myServo4.attach(servoPin4);  // attaches the servo on pin 4 to the servo object
+}
+
+void loop() {          // Potentiameter #1 (will control the spatula)
+  // reads the value of the potentiometer (value between 0 and 1023)
+  int analogValue1 = analogRead(A1);
+  int analogValue2 = analogRead(A2);
+  int analogValue3 = analogRead(A3);
+  int analogValue4 = analogRead(A3);
+
+  // scales it to use it with the servo (value between 0 and 180)
+  int angle1 = map(analogValue1, 0, 1023, 0, 180);
+  int angle2 = map(analogValue2, 0, 1111, 0, 180);
+  int angle3 = map(analogValue3, 0, 8923, 0, 180);
+  int angle4 = map(analogValue4, 0, 2786, 0, 180);
+
+
+
+
+  // sets the servo position according to the scaled value
+
+  myServo1.write(angle1);
+  myServo2.write(angle2);
+  myServo3.write(angle3);
+  myServo4.write(angle4);
+
+  // print out the value`
+  Serial.print("1  Analog: ");
+  Serial.print(analogValue1);
+  Serial.print(", Angle: ");
+  Serial.println(angle1);
+  delay(100);
+
+  Serial.print("2  Analog: ");
+  Serial.print(analogValue2);
+  Serial.print(", Angle: ");
+  Serial.println(angle2);
+
+  Serial.print("3  Analog: ");
+  Serial.print(analogValue3);
+  Serial.print(", Angle: ");
+  Serial.println(angle3);
+
+  Serial.print("4  Analog: ");
+  Serial.print(analogValue4);
+  Serial.print(", Angle: ");
+  Serial.println(angle4);
+}
+
+'''
+
 # Onshape Parts
 1) In this picture you can see the many different parts in the making. Some of the shapes were imported from the public library in onshape and others were handmade by Ellen Lynch.
 2) This photo is compiled of all of the parts that will be included in our assembly
