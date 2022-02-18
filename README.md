@@ -33,6 +33,12 @@ Have a prototype made and make code to have the arm moving up and down along wit
 Week 5: (2/11-2/14)
 Make an engineering notebook (or continue updating throughout the project)and have images and videos as well as code and information to upload and present our project through github. 
 
+---------------
+# Arduino code
+<img src="https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/code%201.PNG" width="250" />
+<img src="https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/code%202.PNG" width="250" />
+<img src="https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/code%203.PNG" width="250" />
+
 # Onshape Parts
 1) In this picture you can see the many different parts in the making. Some of the shapes were imported from the public library in onshape and others were handmade by Ellen Lynch.
 2) This photo is compiled of all of the parts that will be included in our assembly
