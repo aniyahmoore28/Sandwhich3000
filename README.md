@@ -119,6 +119,7 @@ void loop() {          // Potentiameter #1 (will control the spatula)
 
 ---------------
 # Base
+# Reflection
 1) This stand will hold the upper half of the robot along with the servos, bolts, screws, and acrylic peices of the robot arms
 2) Basically this is the base for our project so a lot of effort has to be put into this
 3) The hole was cut to save space and be used to hold up the servos 
@@ -127,6 +128,7 @@ void loop() {          // Potentiameter #1 (will control the spatula)
 
 ---------------
 # Bread Board
+# Reflection
 1) The bread baord hold the wires that give power to the multiple potentiameters that will be hooked up
 2) Without a bread board we would only be able to hook up the potentiamter 
 3) The bread board holds a negitive and positive outlet that allows for multiple connections
@@ -134,6 +136,7 @@ void loop() {          // Potentiameter #1 (will control the spatula)
 
 --------------
 # Battery Pack
+# Reflection
 1) The battery pack holds the batteries that will power the arm
 2) We borrowed the part from the public parts studio in onshape
 3) It will b drilled onto the base of out project
@@ -141,16 +144,19 @@ void loop() {          // Potentiameter #1 (will control the spatula)
 
 --------------
 # Arduino Board
+# Reflection
 1) The arduino board responds to the code it is given when it is plugged into the computer
 <img src="https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/arduino%20board.PNG" width="250" />
 
 --------------
 # Holder For Servos
+# Reflection
 1) This part will hold servos that will help the arms move
 <img src="https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/Arms.PNG" width="250" />
 
 --------------
 # Arms
+# Reflection
 1) The arms proved to be the harderst part
 2) The arms will hold up the meat and bread while conducting the movements in the code
 <img src="https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/Holder%20for%20servos.PNG" width="250" />
@@ -159,7 +165,9 @@ void loop() {          // Potentiameter #1 (will control the spatula)
 # Physical parts 
 <img src="https://github.com/aniyahmoore28/Sandwhich3000/blob/main/Images/parts.jpg" width="250" />
 
+# Reflection
+These parts were cut and fit into our drawing multiple times.It was a trial and error to get the right shapes to get our parts to fit smpoothly. Even after we cut our final peices we had to drill into the arylic with the danger of it cracking, working around loop holes to get our parts to attach. For example we jad to find a way for the parts to twist onto eachother withoout unscrewing completely. After asking Mr. Helmstetter for help he suggected we use a special screw that keeps the parts locked in when they are sitting on top of eachother but still allow for the them to bend freely.
 --------------
 # Overall Reflection
-overall this project threw multiple curve balls at us forcing us to step out of our comfort zones to acheive our final product. We did develope scope creep early on but we were able to focus our priorities on one thing at a time. My goal was to make the code and get the potenticameter working along with the servo. I did accomplish those things. Ellens job was to create the CAD and design what our robot would look like. So far we have about 80% of our project completed, all thats left to do is finish the little bit of cad that is left and cut out our peices from acrylic. We have come so far and learned new things, i have learned that coding js a lot easier than it looks and coding for multiple things is not always a nightmare. Ellen learned how to overcome her chsllenges in CAD along with her mates , she has been working hard to create a functioning robot for our project. 
+overall this project threw multiple curve balls at us forcing us to step out of our comfort zones to acheive our final product. We did develope scope creep early on but we were able to focus our priorities on one thing at a time. My goal was to make the code and get the potenticameter working along with the servo. I did accomplish those things. Ellens job was to create the CAD and design what our robot would look like. So far we have about 80% of our project completed, all thats left to do is finish the little bit of cad that is left and cut out our peices from acrylic. We have come so far and learned new things, i have learned that coding js a lot easier than it looks and coding for multiple things is not always a nightmare. Ellen learned how to overcome her chsllenges in CAD along with her mates, she has been working hard to create a functioning robot for our project. 
 
